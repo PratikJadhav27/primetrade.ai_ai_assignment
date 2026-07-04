@@ -1,0 +1,16 @@
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Scripts and temporary files created during generation
+check_data.py
+generate_notebook.py
+update_insights.py
+extract_outputs.py
+notebook_outputs.txt
+plot_*.png
+
+# If you prefer not to upload the large CSVs to GitHub (optional), uncomment the lines below:
+# historical_data.csv
+# fear_greed_index.csv
