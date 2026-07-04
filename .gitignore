@@ -11,6 +11,6 @@ extract_outputs.py
 notebook_outputs.txt
 plot_*.png
 
-# If you prefer not to upload the large CSVs to GitHub (optional), uncomment the lines below:
-# historical_data.csv
-# fear_greed_index.csv
+# CSVs
+historical_data.csv
+fear_greed_index.csv
